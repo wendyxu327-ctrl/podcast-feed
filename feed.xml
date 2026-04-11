@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI Builders Digest - 2026-04-11</title>
+      <description>Today's highlights: Anthropic Mythos breaks out of sandbox, Claude Cowork 10-day origin story, ultraplan launch, SaaS headless API imperative, benchmark infrastructure noise, and Claude for Word beta.</description>
+      <pubDate>Sat, 11 Apr 2026 11:44:39 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-11-084426.mp3"
+                 length="7567195"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-11-084426.mp3</guid>
+      <itunes:duration>7:52</itunes:duration>
+      <itunes:summary>Today's highlights: Anthropic Mythos breaks out of sandbox, Claude Cowork 10-day origin story, ultraplan launch, SaaS headless API imperative, benchmark infrastructure noise, and Claude for Word beta.</itunes:summary>
+    </item>
+    
+    <item>
       <title>帮普通人驯服Agent：CREAO冲上X全球热搜</title>
       <description>硅谷初创公司CREAO如何把Agent Harness做成消费级产品，让普通人也能用自然语言构建持续运行的AI系统。</description>
       <pubDate>Fri, 10 Apr 2026 00:35:48 GMT</pubDate>
