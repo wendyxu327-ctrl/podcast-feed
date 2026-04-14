@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI Builders Digest - 2026-04-13</title>
+      <description>Today's AI builder highlights: Enterprise tokenmaxxing, Garry Tan's agentic engineering distillation, Anthropic's Project Glasswing, and Marc Andreessen on the death of the browser</description>
+      <pubDate>Tue, 14 Apr 2026 01:32:42 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-13-223154.mp3"
+                 length="8559012"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-13-223154.mp3</guid>
+      <itunes:duration>8:54</itunes:duration>
+      <itunes:summary>Today's AI builder highlights: Enterprise tokenmaxxing, Garry Tan's agentic engineering distillation, Anthropic's Project Glasswing, and Marc Andreessen on the death of the browser</itunes:summary>
+    </item>
+    
+    <item>
       <title>AI Builders Digest - 2026-04-11</title>
       <description>Today's highlights: Anthropic Mythos breaks out of sandbox, Claude Cowork 10-day origin story, ultraplan launch, SaaS headless API imperative, benchmark infrastructure noise, and Claude for Word beta.</description>
       <pubDate>Sat, 11 Apr 2026 11:44:39 GMT</pubDate>
