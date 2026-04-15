@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI Builders Digest - 2026-04-14</title>
+      <description>Today's AI builder highlights: Vercel open-sources Open Agents, Box CEO defines the Agent Deployer role, Dan Shipper's pirate vs architect framework, and ChatGPT co-creator Liam Fedus builds AI for atoms</description>
+      <pubDate>Wed, 15 Apr 2026 00:44:34 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-14-214025.mp3"
+                 length="8800174"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-14-214025.mp3</guid>
+      <itunes:duration>9:09</itunes:duration>
+      <itunes:summary>Today's AI builder highlights: Vercel open-sources Open Agents, Box CEO defines the Agent Deployer role, Dan Shipper's pirate vs architect framework, and ChatGPT co-creator Liam Fedus builds AI for atoms</itunes:summary>
+    </item>
+    
+    <item>
       <title>AI Builders Digest - 2026-04-13</title>
       <description>Today's AI builder highlights: Enterprise tokenmaxxing, Garry Tan's agentic engineering distillation, Anthropic's Project Glasswing, and Marc Andreessen on the death of the browser</description>
       <pubDate>Tue, 14 Apr 2026 01:32:42 GMT</pubDate>
