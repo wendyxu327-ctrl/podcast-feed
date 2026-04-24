@@ -6,7 +6,7 @@
     <title>My Podcast</title>
     <link>https://wendyxu327-ctrl.github.io/podcast-feed</link>
     <description>A personalized AI-generated podcast.</description>
-    <language>zh</language>
+    <language>en</language>
     <atom:link href="https://wendyxu327-ctrl.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
 
@@ -25,6 +25,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    
+    <item>
+      <title>AI Builders Digest - 2026-04-24</title>
+      <description>GPT-5.5发布、Codex企业全员部署、Claude Code故障复盘+额度重置、Managed Agents记忆公测、暗工厂时代来临</description>
+      <pubDate>Fri, 24 Apr 2026 12:04:03 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-24-090354.mp3"
+                 length="10507955"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-24-090354.mp3</guid>
+      <itunes:duration>10:56</itunes:duration>
+      <itunes:summary>GPT-5.5发布、Codex企业全员部署、Claude Code故障复盘+额度重置、Managed Agents记忆公测、暗工厂时代来临</itunes:summary>
+    </item>
     
     <item>
       <title>AI Builders Digest - 2026-04-23</title>

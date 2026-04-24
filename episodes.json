@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI Builders Digest - 2026-04-24",
+    "description": "GPT-5.5\u53d1\u5e03\u3001Codex\u4f01\u4e1a\u5168\u5458\u90e8\u7f72\u3001Claude Code\u6545\u969c\u590d\u76d8+\u989d\u5ea6\u91cd\u7f6e\u3001Managed Agents\u8bb0\u5fc6\u516c\u6d4b\u3001\u6697\u5de5\u5382\u65f6\u4ee3\u6765\u4e34",
+    "pub_date": "Fri, 24 Apr 2026 12:04:03 GMT",
+    "filename": "2026-04-24-090354.mp3",
+    "file_size": "10507955",
+    "duration": "10:56",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-24-090354.mp3"
+  },
+  {
     "title": "AI Builders Digest - 2026-04-23",
     "description": "Today's AI builder highlights: Every goes all-in on personal AI agents, enterprise AI adoption hurdles, plus ecosystem updates from Steinberger, Shipper, Altman.",
     "pub_date": "Thu, 23 Apr 2026 09:50:58 GMT",
@@ -9,8 +18,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-23-023222.mp3"
   },
   {
-    "title": "【AI PM 004】大模型原生产品 LLM-Native",
-    "description": "判断AI产品是否大模型原生的四个硬指标+三级光谱(AI-Enhanced/AI-Integrated/AI-Native)+油改电类比+抖音兴趣圈层AI-Native重构。字节JD隐藏Boss题。",
+    "title": "\u3010AI PM 004\u3011\u5927\u6a21\u578b\u539f\u751f\u4ea7\u54c1 LLM-Native",
+    "description": "\u5224\u65adAI\u4ea7\u54c1\u662f\u5426\u5927\u6a21\u578b\u539f\u751f\u7684\u56db\u4e2a\u786c\u6307\u6807+\u4e09\u7ea7\u5149\u8c31(AI-Enhanced/AI-Integrated/AI-Native)+\u6cb9\u6539\u7535\u7c7b\u6bd4+\u6296\u97f3\u5174\u8da3\u5708\u5c42AI-Native\u91cd\u6784\u3002\u5b57\u8282JD\u9690\u85cfBoss\u9898\u3002",
     "pub_date": "Thu, 23 Apr 2026 00:52:10 GMT",
     "filename": "2026-04-22-215206.mp3",
     "file_size": "8944370",
@@ -18,8 +27,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-22-215206.mp3"
   },
   {
-    "title": "【AI PM 048】抖音兴趣圈层AI化改造蓝图",
-    "description": "AI-Native四环节重构:内容理解→兴趣识别→创作辅助→社交连接,字节JD原题答题框架",
+    "title": "\u3010AI PM 048\u3011\u6296\u97f3\u5174\u8da3\u5708\u5c42AI\u5316\u6539\u9020\u84dd\u56fe",
+    "description": "AI-Native\u56db\u73af\u8282\u91cd\u6784:\u5185\u5bb9\u7406\u89e3\u2192\u5174\u8da3\u8bc6\u522b\u2192\u521b\u4f5c\u8f85\u52a9\u2192\u793e\u4ea4\u8fde\u63a5,\u5b57\u8282JD\u539f\u9898\u7b54\u9898\u6846\u67b6",
     "pub_date": "Wed, 22 Apr 2026 03:01:36 GMT",
     "filename": "2026-04-22-000131.mp3",
     "file_size": "13135665",
@@ -27,8 +36,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-22-000131.mp3"
   },
   {
-    "title": "【AI PM 043】跨团队协作·和算法/工程/运营打交道",
-    "description": "AI PM五方翻译官,黑话速查+三大典型冲突+三招协作法,字节JD明确要求",
+    "title": "\u3010AI PM 043\u3011\u8de8\u56e2\u961f\u534f\u4f5c\u00b7\u548c\u7b97\u6cd5/\u5de5\u7a0b/\u8fd0\u8425\u6253\u4ea4\u9053",
+    "description": "AI PM\u4e94\u65b9\u7ffb\u8bd1\u5b98,\u9ed1\u8bdd\u901f\u67e5+\u4e09\u5927\u5178\u578b\u51b2\u7a81+\u4e09\u62db\u534f\u4f5c\u6cd5,\u5b57\u8282JD\u660e\u786e\u8981\u6c42",
     "pub_date": "Wed, 22 Apr 2026 02:56:43 GMT",
     "filename": "2026-04-21-235639.mp3",
     "file_size": "10189053",
@@ -36,8 +45,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235639.mp3"
   },
   {
-    "title": "【AI PM 032】多模态产品形态全景",
-    "description": "7大品类:数字人+视频生成+AI图像+图文理解+实时语音+AR眼镜+具身智能",
+    "title": "\u3010AI PM 032\u3011\u591a\u6a21\u6001\u4ea7\u54c1\u5f62\u6001\u5168\u666f",
+    "description": "7\u5927\u54c1\u7c7b:\u6570\u5b57\u4eba+\u89c6\u9891\u751f\u6210+AI\u56fe\u50cf+\u56fe\u6587\u7406\u89e3+\u5b9e\u65f6\u8bed\u97f3+AR\u773c\u955c+\u5177\u8eab\u667a\u80fd",
     "pub_date": "Wed, 22 Apr 2026 02:53:07 GMT",
     "filename": "2026-04-21-235304.mp3",
     "file_size": "9436308",
@@ -45,8 +54,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235304.mp3"
   },
   {
-    "title": "【AI PM 031】多模态大模型代表作盘点",
-    "description": "按能力类型盘点:Vision LLM+长视频+文生图/视频/音乐+实时语音+数字人,字节豆包即梦矩阵",
+    "title": "\u3010AI PM 031\u3011\u591a\u6a21\u6001\u5927\u6a21\u578b\u4ee3\u8868\u4f5c\u76d8\u70b9",
+    "description": "\u6309\u80fd\u529b\u7c7b\u578b\u76d8\u70b9:Vision LLM+\u957f\u89c6\u9891+\u6587\u751f\u56fe/\u89c6\u9891/\u97f3\u4e50+\u5b9e\u65f6\u8bed\u97f3+\u6570\u5b57\u4eba,\u5b57\u8282\u8c46\u5305\u5373\u68a6\u77e9\u9635",
     "pub_date": "Wed, 22 Apr 2026 02:49:34 GMT",
     "filename": "2026-04-21-234929.mp3",
     "file_size": "11962871",
@@ -54,8 +63,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234929.mp3"
   },
   {
-    "title": "【AI PM 030】什么是多模态·下一站风口",
-    "description": "多模态三代演进+四条为什么是下一站,Sora/GPT-4o案例,字节天然多模态",
+    "title": "\u3010AI PM 030\u3011\u4ec0\u4e48\u662f\u591a\u6a21\u6001\u00b7\u4e0b\u4e00\u7ad9\u98ce\u53e3",
+    "description": "\u591a\u6a21\u6001\u4e09\u4ee3\u6f14\u8fdb+\u56db\u6761\u4e3a\u4ec0\u4e48\u662f\u4e0b\u4e00\u7ad9,Sora/GPT-4o\u6848\u4f8b,\u5b57\u8282\u5929\u7136\u591a\u6a21\u6001",
     "pub_date": "Wed, 22 Apr 2026 02:45:05 GMT",
     "filename": "2026-04-21-234501.mp3",
     "file_size": "10766254",
@@ -63,8 +72,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234501.mp3"
   },
   {
-    "title": "【AI PM 025】MCP vs Skills 渐进式披露",
-    "description": "MCP像USB-C,Skills像App插件,渐进式披露机制,做平台用MCP做垂类用Skills",
+    "title": "\u3010AI PM 025\u3011MCP vs Skills \u6e10\u8fdb\u5f0f\u62ab\u9732",
+    "description": "MCP\u50cfUSB-C,Skills\u50cfApp\u63d2\u4ef6,\u6e10\u8fdb\u5f0f\u62ab\u9732\u673a\u5236,\u505a\u5e73\u53f0\u7528MCP\u505a\u5782\u7c7b\u7528Skills",
     "pub_date": "Wed, 22 Apr 2026 02:41:13 GMT",
     "filename": "2026-04-21-234110.mp3",
     "file_size": "7804177",
@@ -72,8 +81,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234110.mp3"
   },
   {
-    "title": "【AI PM 024】Agent基础+Cursor/Trae实现",
-    "description": "Agent=LLM+Tool+Loop+Memory+Planning,拆解Cursor三层和字节Trae的Builder Mode",
+    "title": "\u3010AI PM 024\u3011Agent\u57fa\u7840+Cursor/Trae\u5b9e\u73b0",
+    "description": "Agent=LLM+Tool+Loop+Memory+Planning,\u62c6\u89e3Cursor\u4e09\u5c42\u548c\u5b57\u8282Trae\u7684Builder Mode",
     "pub_date": "Wed, 22 Apr 2026 02:38:19 GMT",
     "filename": "2026-04-21-233815.mp3",
     "file_size": "11203439",
@@ -81,8 +90,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233815.mp3"
   },
   {
-    "title": "【AI PM 023】Agent PM 三大能力",
-    "description": "RAG召回率+微调数据标注+模型迭代验收,腾讯面试原题",
+    "title": "\u3010AI PM 023\u3011Agent PM \u4e09\u5927\u80fd\u529b",
+    "description": "RAG\u53ec\u56de\u7387+\u5fae\u8c03\u6570\u636e\u6807\u6ce8+\u6a21\u578b\u8fed\u4ee3\u9a8c\u6536,\u817e\u8baf\u9762\u8bd5\u539f\u9898",
     "pub_date": "Wed, 22 Apr 2026 02:34:08 GMT",
     "filename": "2026-04-21-233404.mp3",
     "file_size": "12469438",
@@ -90,8 +99,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233404.mp3"
   },
   {
-    "title": "【AI PM 019】微调与 LoRA 85%→95%",
-    "description": "微调类型对比+LoRA原理+客服85%到95%六步流程,腾讯面试原题标准答案",
+    "title": "\u3010AI PM 019\u3011\u5fae\u8c03\u4e0e LoRA 85%\u219295%",
+    "description": "\u5fae\u8c03\u7c7b\u578b\u5bf9\u6bd4+LoRA\u539f\u7406+\u5ba2\u670d85%\u523095%\u516d\u6b65\u6d41\u7a0b,\u817e\u8baf\u9762\u8bd5\u539f\u9898\u6807\u51c6\u7b54\u6848",
     "pub_date": "Wed, 22 Apr 2026 02:29:35 GMT",
     "filename": "2026-04-21-232930.mp3",
     "file_size": "10449441",
@@ -99,8 +108,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-232930.mp3"
   },
   {
-    "title": "【AI PM 018】大模型选型 DeepSeek V3 vs R1",
-    "description": "选型六维度+DeepSeek V3与R1差异+全家桶盘点+PM视角决策流,字节阿里高频题",
+    "title": "\u3010AI PM 018\u3011\u5927\u6a21\u578b\u9009\u578b DeepSeek V3 vs R1",
+    "description": "\u9009\u578b\u516d\u7ef4\u5ea6+DeepSeek V3\u4e0eR1\u5dee\u5f02+\u5168\u5bb6\u6876\u76d8\u70b9+PM\u89c6\u89d2\u51b3\u7b56\u6d41,\u5b57\u8282\u963f\u91cc\u9ad8\u9891\u9898",
     "pub_date": "Wed, 22 Apr 2026 02:25:33 GMT",
     "filename": "2026-04-21-232528.mp3",
     "file_size": "13425728",
@@ -108,8 +117,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-232528.mp3"
   },
   {
-    "title": "【AI PM 017】幻觉的成因与处理",
-    "description": "大模型为什么会一本正经胡说八道？从4条成因、3种类型、3个真实翻车案例，到 PM 必须掌握的反直觉处理原则。含字节抖音推荐系统的'幻觉推荐'处理方案。",
+    "title": "\u3010AI PM 017\u3011\u5e7b\u89c9\u7684\u6210\u56e0\u4e0e\u5904\u7406",
+    "description": "\u5927\u6a21\u578b\u4e3a\u4ec0\u4e48\u4f1a\u4e00\u672c\u6b63\u7ecf\u80e1\u8bf4\u516b\u9053\uff1f\u4ece4\u6761\u6210\u56e0\u30013\u79cd\u7c7b\u578b\u30013\u4e2a\u771f\u5b9e\u7ffb\u8f66\u6848\u4f8b\uff0c\u5230 PM \u5fc5\u987b\u638c\u63e1\u7684\u53cd\u76f4\u89c9\u5904\u7406\u539f\u5219\u3002\u542b\u5b57\u8282\u6296\u97f3\u63a8\u8350\u7cfb\u7edf\u7684'\u5e7b\u89c9\u63a8\u8350'\u5904\u7406\u65b9\u6848\u3002",
     "pub_date": "Wed, 22 Apr 2026 01:45:14 GMT",
     "filename": "2026-04-21-223937.mp3",
     "file_size": "11422032",
@@ -162,8 +171,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-11-084426.mp3"
   },
   {
-    "title": "帮普通人驯服Agent：CREAO冲上X全球热搜",
-    "description": "硅谷初创公司CREAO如何把Agent Harness做成消费级产品，让普通人也能用自然语言构建持续运行的AI系统。",
+    "title": "\u5e2e\u666e\u901a\u4eba\u9a6f\u670dAgent\uff1aCREAO\u51b2\u4e0aX\u5168\u7403\u70ed\u641c",
+    "description": "\u7845\u8c37\u521d\u521b\u516c\u53f8CREAO\u5982\u4f55\u628aAgent Harness\u505a\u6210\u6d88\u8d39\u7ea7\u4ea7\u54c1\uff0c\u8ba9\u666e\u901a\u4eba\u4e5f\u80fd\u7528\u81ea\u7136\u8bed\u8a00\u6784\u5efa\u6301\u7eed\u8fd0\u884c\u7684AI\u7cfb\u7edf\u3002",
     "pub_date": "Fri, 10 Apr 2026 00:35:48 GMT",
     "filename": "2026-04-09-021701.mp3",
     "file_size": "8155263",
@@ -171,8 +180,8 @@
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-09-021701.mp3"
   },
   {
-    "title": "赔率不是市场规模：你到底在赌什么变化",
-    "description": "蓝狮融资课程第四讲：打破规模迷信，用四层框架重新定义赔率。以抖音和Cursor为例，解析新要素、系统共振、价值池重写与终局经济账。",
+    "title": "\u8d54\u7387\u4e0d\u662f\u5e02\u573a\u89c4\u6a21\uff1a\u4f60\u5230\u5e95\u5728\u8d4c\u4ec0\u4e48\u53d8\u5316",
+    "description": "\u84dd\u72ee\u878d\u8d44\u8bfe\u7a0b\u7b2c\u56db\u8bb2\uff1a\u6253\u7834\u89c4\u6a21\u8ff7\u4fe1\uff0c\u7528\u56db\u5c42\u6846\u67b6\u91cd\u65b0\u5b9a\u4e49\u8d54\u7387\u3002\u4ee5\u6296\u97f3\u548cCursor\u4e3a\u4f8b\uff0c\u89e3\u6790\u65b0\u8981\u7d20\u3001\u7cfb\u7edf\u5171\u632f\u3001\u4ef7\u503c\u6c60\u91cd\u5199\u4e0e\u7ec8\u5c40\u7ecf\u6d4e\u8d26\u3002",
     "pub_date": "Thu, 09 Apr 2026 02:23:40 GMT",
     "filename": "2026-04-08-232243.mp3",
     "file_size": "4964563",
