@@ -6,7 +6,7 @@
     <title>My Podcast</title>
     <link>https://wendyxu327-ctrl.github.io/podcast-feed</link>
     <description>A personalized AI-generated podcast.</description>
-    <language>en</language>
+    <language>zh</language>
     <atom:link href="https://wendyxu327-ctrl.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
 
@@ -72,6 +72,66 @@
       <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235639.mp3</guid>
       <itunes:duration>10:36</itunes:duration>
       <itunes:summary>AI PM五方翻译官,黑话速查+三大典型冲突+三招协作法,字节JD明确要求</itunes:summary>
+    </item>
+    
+    <item>
+      <title>【AI PM 032】多模态产品形态全景</title>
+      <description>7大品类:数字人+视频生成+AI图像+图文理解+实时语音+AR眼镜+具身智能</description>
+      <pubDate>Wed, 22 Apr 2026 02:53:07 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235304.mp3"
+                 length="9436308"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235304.mp3</guid>
+      <itunes:duration>9:49</itunes:duration>
+      <itunes:summary>7大品类:数字人+视频生成+AI图像+图文理解+实时语音+AR眼镜+具身智能</itunes:summary>
+    </item>
+    
+    <item>
+      <title>【AI PM 031】多模态大模型代表作盘点</title>
+      <description>按能力类型盘点:Vision LLM+长视频+文生图/视频/音乐+实时语音+数字人,字节豆包即梦矩阵</description>
+      <pubDate>Wed, 22 Apr 2026 02:49:34 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234929.mp3"
+                 length="11962871"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234929.mp3</guid>
+      <itunes:duration>12:27</itunes:duration>
+      <itunes:summary>按能力类型盘点:Vision LLM+长视频+文生图/视频/音乐+实时语音+数字人,字节豆包即梦矩阵</itunes:summary>
+    </item>
+    
+    <item>
+      <title>【AI PM 030】什么是多模态·下一站风口</title>
+      <description>多模态三代演进+四条为什么是下一站,Sora/GPT-4o案例,字节天然多模态</description>
+      <pubDate>Wed, 22 Apr 2026 02:45:05 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234501.mp3"
+                 length="10766254"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234501.mp3</guid>
+      <itunes:duration>11:12</itunes:duration>
+      <itunes:summary>多模态三代演进+四条为什么是下一站,Sora/GPT-4o案例,字节天然多模态</itunes:summary>
+    </item>
+    
+    <item>
+      <title>【AI PM 025】MCP vs Skills 渐进式披露</title>
+      <description>MCP像USB-C,Skills像App插件,渐进式披露机制,做平台用MCP做垂类用Skills</description>
+      <pubDate>Wed, 22 Apr 2026 02:41:13 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234110.mp3"
+                 length="7804177"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234110.mp3</guid>
+      <itunes:duration>8:07</itunes:duration>
+      <itunes:summary>MCP像USB-C,Skills像App插件,渐进式披露机制,做平台用MCP做垂类用Skills</itunes:summary>
+    </item>
+    
+    <item>
+      <title>【AI PM 024】Agent基础+Cursor/Trae实现</title>
+      <description>Agent=LLM+Tool+Loop+Memory+Planning,拆解Cursor三层和字节Trae的Builder Mode</description>
+      <pubDate>Wed, 22 Apr 2026 02:38:19 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233815.mp3"
+                 length="11203439"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233815.mp3</guid>
+      <itunes:duration>11:40</itunes:duration>
+      <itunes:summary>Agent=LLM+Tool+Loop+Memory+Planning,拆解Cursor三层和字节Trae的Builder Mode</itunes:summary>
     </item>
     
     <item>
