@@ -1,5 +1,14 @@
 [
   {
+    "title": "EP11 Loot \u2014 \u4e92\u52a8\u5185\u5bb9\u91cd\u5b9a\u4e49\u8868\u8fbe",
+    "description": "\u53ef\u4ea4\u4e92\u5185\u5bb9\u5e73\u53f0\u3002\u7528\u6237\u9009\u62e9\u91ca\u653e\u9ad8\u5bc6\u5ea6\u610f\u56fe\u4fe1\u53f7\uff0c\u9a71\u52a8\u7cbe\u51c6\u63a8\u8350\u3002",
+    "pub_date": "Sat, 25 Apr 2026 01:09:22 GMT",
+    "filename": "2026-04-24-215246.mp3",
+    "file_size": "2710927",
+    "duration": "2:49",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-24-215246.mp3"
+  },
+  {
     "title": "EP10 Lumitopia \u2014 AI 3D\u4e59\u5973\u6e38\u620f",
     "description": "Magic Find/HT\u6295\u8d44\u3002AI\u964d\u4f4e3D\u6e38\u620f\u5236\u4f5c\u6210\u672c\uff0c\u4e2a\u6027\u5316\u604b\u7231\u4f53\u9a8c\u3002",
     "pub_date": "Sat, 25 Apr 2026 01:08:33 GMT",
@@ -259,14 +268,5 @@
     "file_size": "7567195",
     "duration": "7:52",
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-11-084426.mp3"
-  },
-  {
-    "title": "\u5e2e\u666e\u901a\u4eba\u9a6f\u670dAgent\uff1aCREAO\u51b2\u4e0aX\u5168\u7403\u70ed\u641c",
-    "description": "\u7845\u8c37\u521d\u521b\u516c\u53f8CREAO\u5982\u4f55\u628aAgent Harness\u505a\u6210\u6d88\u8d39\u7ea7\u4ea7\u54c1\uff0c\u8ba9\u666e\u901a\u4eba\u4e5f\u80fd\u7528\u81ea\u7136\u8bed\u8a00\u6784\u5efa\u6301\u7eed\u8fd0\u884c\u7684AI\u7cfb\u7edf\u3002",
-    "pub_date": "Fri, 10 Apr 2026 00:35:48 GMT",
-    "filename": "2026-04-09-021701.mp3",
-    "file_size": "8155263",
-    "duration": "8:29",
-    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-09-021701.mp3"
   }
 ]
