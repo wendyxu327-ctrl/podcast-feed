@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>EP1 Dubbing AI — 用AI变声，想像谁就像谁</title>
+      <description>Voice Agent赛道，Peak XV投资。实时AI变声，面向游戏玩家和主播。</description>
+      <pubDate>Sat, 25 Apr 2026 00:59:22 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-24-212203.mp3"
+                 length="2435910"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-24-212203.mp3</guid>
+      <itunes:duration>2:32</itunes:duration>
+      <itunes:summary>Voice Agent赛道，Peak XV投资。实时AI变声，面向游戏玩家和主播。</itunes:summary>
+    </item>
+    
+    <item>
       <title>AI Builders Digest - 2026-04-24</title>
       <description>GPT-5.5发布、Codex企业全员部署、Claude Code故障复盘+额度重置、Managed Agents记忆公测、暗工厂时代来临</description>
       <pubDate>Fri, 24 Apr 2026 12:04:03 GMT</pubDate>
