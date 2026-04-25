@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI Builders Digest - 2026-04-25",
+    "description": "Today's AI builder highlights: GPT-5.5 launches, Anthropic Managed Agents decouples brain from hands, SAP CTO on enterprise AI realities, and Jevons Paradox applied to AI jobs.",
+    "pub_date": "Sat, 25 Apr 2026 10:08:01 GMT",
+    "filename": "2026-04-25-070749.mp3",
+    "file_size": "10556439",
+    "duration": "10:59",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-25-070749.mp3"
+  },
+  {
     "title": "EP13 Viba \u2014 \u5317\u7f8eAI\u65f6\u5c1a\u793e\u533a",
     "description": "AI\u964d\u4f4e\u65f6\u5c1a\u521b\u4f5c\u95e8\u69db\uff0c\u4eba\u4eba\u90fd\u80fd\u5f53\u8bbe\u8ba1\u5e08\u7684\u793e\u533a\u5e73\u53f0\u3002",
     "pub_date": "Sat, 25 Apr 2026 01:10:55 GMT",
@@ -259,14 +268,5 @@
     "file_size": "7437627",
     "duration": "7:44",
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-15-074551.mp3"
-  },
-  {
-    "title": "AI Builders Digest - 2026-04-14",
-    "description": "Today's AI builder highlights: Vercel open-sources Open Agents, Box CEO defines the Agent Deployer role, Dan Shipper's pirate vs architect framework, and ChatGPT co-creator Liam Fedus builds AI for atoms",
-    "pub_date": "Wed, 15 Apr 2026 00:44:34 GMT",
-    "filename": "2026-04-14-214025.mp3",
-    "file_size": "8800174",
-    "duration": "9:09",
-    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-14-214025.mp3"
   }
 ]
