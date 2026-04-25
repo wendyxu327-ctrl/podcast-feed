@@ -1,5 +1,14 @@
 [
   {
+    "title": "EP13 Viba \u2014 \u5317\u7f8eAI\u65f6\u5c1a\u793e\u533a",
+    "description": "AI\u964d\u4f4e\u65f6\u5c1a\u521b\u4f5c\u95e8\u69db\uff0c\u4eba\u4eba\u90fd\u80fd\u5f53\u8bbe\u8ba1\u5e08\u7684\u793e\u533a\u5e73\u53f0\u3002",
+    "pub_date": "Sat, 25 Apr 2026 01:10:55 GMT",
+    "filename": "2026-04-24-215727.mp3",
+    "file_size": "3104644",
+    "duration": "3:13",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-24-215727.mp3"
+  },
+  {
     "title": "EP12 OmniPhysx \u2014 4D\u6570\u636e\u91c7\u96c6",
     "description": "\u7ed9Physical AI\u63d0\u4f9b\u6570\u636e\u71c3\u6599\uff0c\u79fb\u52a8\u8bbe\u5907\u91c7\u96c6\u771f\u5b9e\u4e16\u754c4D\u6570\u636e\u3002",
     "pub_date": "Sat, 25 Apr 2026 01:10:08 GMT",
@@ -259,14 +268,5 @@
     "file_size": "8800174",
     "duration": "9:09",
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-14-214025.mp3"
-  },
-  {
-    "title": "AI Builders Digest - 2026-04-13",
-    "description": "Today's AI builder highlights: Enterprise tokenmaxxing, Garry Tan's agentic engineering distillation, Anthropic's Project Glasswing, and Marc Andreessen on the death of the browser",
-    "pub_date": "Tue, 14 Apr 2026 01:32:42 GMT",
-    "filename": "2026-04-13-223154.mp3",
-    "file_size": "8559012",
-    "duration": "8:54",
-    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-13-223154.mp3"
   }
 ]
