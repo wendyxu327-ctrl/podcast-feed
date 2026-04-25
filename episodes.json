@@ -1,5 +1,14 @@
 [
   {
+    "title": "EP12 OmniPhysx \u2014 4D\u6570\u636e\u91c7\u96c6",
+    "description": "\u7ed9Physical AI\u63d0\u4f9b\u6570\u636e\u71c3\u6599\uff0c\u79fb\u52a8\u8bbe\u5907\u91c7\u96c6\u771f\u5b9e\u4e16\u754c4D\u6570\u636e\u3002",
+    "pub_date": "Sat, 25 Apr 2026 01:10:08 GMT",
+    "filename": "2026-04-24-215405.mp3",
+    "file_size": "3012275",
+    "duration": "3:08",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-24-215405.mp3"
+  },
+  {
     "title": "EP11 Loot \u2014 \u4e92\u52a8\u5185\u5bb9\u91cd\u5b9a\u4e49\u8868\u8fbe",
     "description": "\u53ef\u4ea4\u4e92\u5185\u5bb9\u5e73\u53f0\u3002\u7528\u6237\u9009\u62e9\u91ca\u653e\u9ad8\u5bc6\u5ea6\u610f\u56fe\u4fe1\u53f7\uff0c\u9a71\u52a8\u7cbe\u51c6\u63a8\u8350\u3002",
     "pub_date": "Sat, 25 Apr 2026 01:09:22 GMT",
@@ -259,14 +268,5 @@
     "file_size": "8559012",
     "duration": "8:54",
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-13-223154.mp3"
-  },
-  {
-    "title": "AI Builders Digest - 2026-04-11",
-    "description": "Today's highlights: Anthropic Mythos breaks out of sandbox, Claude Cowork 10-day origin story, ultraplan launch, SaaS headless API imperative, benchmark infrastructure noise, and Claude for Word beta.",
-    "pub_date": "Sat, 11 Apr 2026 11:44:39 GMT",
-    "filename": "2026-04-11-084426.mp3",
-    "file_size": "7567195",
-    "duration": "7:52",
-    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-11-084426.mp3"
   }
 ]
