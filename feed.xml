@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI Builders Digest - 2026-04-26</title>
+      <description>Today's AI builder highlights: ServiceNow CEO on AI vs workflow, Sam Altman on Codex speed, Levie on AI as career leverage, Masad's era timeline, and more.</description>
+      <pubDate>Sun, 26 Apr 2026 10:20:23 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-26-072011.mp3"
+                 length="12225350"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-26-072011.mp3</guid>
+      <itunes:duration>12:44</itunes:duration>
+      <itunes:summary>Today's AI builder highlights: ServiceNow CEO on AI vs workflow, Sam Altman on Codex speed, Levie on AI as career leverage, Masad's era timeline, and more.</itunes:summary>
+    </item>
+    
+    <item>
       <title>AI Builders Digest - 2026-04-25</title>
       <description>Today's AI builder highlights: GPT-5.5 launches, Anthropic Managed Agents decouples brain from hands, SAP CTO on enterprise AI realities, and Jevons Paradox applied to AI jobs.</description>
       <pubDate>Sat, 25 Apr 2026 10:08:01 GMT</pubDate>
@@ -372,18 +384,6 @@
       <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-18-231334.mp3</guid>
       <itunes:duration>7:02</itunes:duration>
       <itunes:summary>Kevin Weil leaves OpenAI, Claude Design + Opus 4.7 launch, Levie on headless software, ServiceNow CEO on the SaaSpocalypse</itunes:summary>
-    </item>
-    
-    <item>
-      <title>AI Builders Digest - 2026-04-15</title>
-      <description>Today's highlights: Claude Code desktop redesign for parallel agents, Agent-Led Growth replaces SEO, Sparkle v4 desktop agent, and why you can't vibe code lessons</description>
-      <pubDate>Wed, 15 Apr 2026 10:46:00 GMT</pubDate>
-      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-15-074551.mp3"
-                 length="7437627"
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-15-074551.mp3</guid>
-      <itunes:duration>7:44</itunes:duration>
-      <itunes:summary>Today's highlights: Claude Code desktop redesign for parallel agents, Agent-Led Growth replaces SEO, Sparkle v4 desktop agent, and why you can't vibe code lessons</itunes:summary>
     </item>
     
   </channel>
