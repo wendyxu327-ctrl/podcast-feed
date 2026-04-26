@@ -1,5 +1,14 @@
 [
   {
+    "title": "EP05\uff5c\u5f71\u5b50AI\u4e0eDeepfake\uff1a\u4f60\u4f1a\u88ab\u9a97\u5230\u76842026",
+    "description": "\u5458\u5de5\u5077\u5077\u7528ChatGPT\u3001\u9999\u6e2f2\u4ebf\u6e2f\u5e01AI\u8bc8\u9a97\u6848\u3001\u5bb6\u5ead\u8bed\u97f3\u5bc6\u7801\u2014\u2014AI\u65f6\u4ee3\u7684\u9632\u9a97\u6307\u5357\u3002",
+    "pub_date": "Sun, 26 Apr 2026 23:51:33 GMT",
+    "filename": "EP05_\u5f71\u5b50AI\u4e0eDeepfake.mp3",
+    "file_size": "6154911",
+    "duration": "6:24",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP05_\u5f71\u5b50AI\u4e0eDeepfake.mp3"
+  },
+  {
     "title": "EP04\uff5cAgent\u624d\u662f\u4e3b\u6218\u573a\u2014\u2014MCP\u3001NHI\u548c\u975e\u4eba\u8eab\u4efd",
     "description": "AI\u52a9\u624b\u6570\u91cf\u5c06\u662f\u771f\u4eba\u5458\u5de5\u768450\u500d\u3002\u975e\u4eba\u8eab\u4efd\u6cbb\u7406\u662f\u4e0b\u4e00\u4ee3Okta+CyberArk\u7684\u8d5b\u9053\u3002MCP\u6f0f\u6d1e\u4e0eAgent\u6c99\u7bb1\u3002",
     "pub_date": "Sun, 26 Apr 2026 23:50:54 GMT",
@@ -259,14 +268,5 @@
     "file_size": "11203439",
     "duration": "11:40",
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233815.mp3"
-  },
-  {
-    "title": "\u3010AI PM 023\u3011Agent PM \u4e09\u5927\u80fd\u529b",
-    "description": "RAG\u53ec\u56de\u7387+\u5fae\u8c03\u6570\u636e\u6807\u6ce8+\u6a21\u578b\u8fed\u4ee3\u9a8c\u6536,\u817e\u8baf\u9762\u8bd5\u539f\u9898",
-    "pub_date": "Wed, 22 Apr 2026 02:34:08 GMT",
-    "filename": "2026-04-21-233404.mp3",
-    "file_size": "12469438",
-    "duration": "12:59",
-    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233404.mp3"
   }
 ]
