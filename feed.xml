@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>EP01｜你的下一份必须有，是网络安全</title>
+      <description>为什么AI时代的网络安全正在变成必须层。从Replit创始人到ServiceNow CEO的双重判断说起。术语小白版。</description>
+      <pubDate>Sun, 26 Apr 2026 23:48:51 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP01_你的下一份必须有_是网络安全.mp3"
+                 length="8693595"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP01_你的下一份必须有_是网络安全.mp3</guid>
+      <itunes:duration>9:03</itunes:duration>
+      <itunes:summary>为什么AI时代的网络安全正在变成必须层。从Replit创始人到ServiceNow CEO的双重判断说起。术语小白版。</itunes:summary>
+    </item>
+    
+    <item>
       <title>AI Builders Digest - 2026-04-26</title>
       <description>Today's AI builder highlights: ServiceNow CEO on AI vs workflow, Sam Altman on Codex speed, Levie on AI as career leverage, Masad's era timeline, and more.</description>
       <pubDate>Sun, 26 Apr 2026 10:20:23 GMT</pubDate>
@@ -372,18 +384,6 @@
       <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-223937.mp3</guid>
       <itunes:duration>11:53</itunes:duration>
       <itunes:summary>大模型为什么会一本正经胡说八道？从4条成因、3种类型、3个真实翻车案例，到 PM 必须掌握的反直觉处理原则。含字节抖音推荐系统的'幻觉推荐'处理方案。</itunes:summary>
-    </item>
-    
-    <item>
-      <title>AI Builders Digest - 2026-04-18</title>
-      <description>Kevin Weil leaves OpenAI, Claude Design + Opus 4.7 launch, Levie on headless software, ServiceNow CEO on the SaaSpocalypse</description>
-      <pubDate>Sun, 19 Apr 2026 02:13:45 GMT</pubDate>
-      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-18-231334.mp3"
-                 length="6766385"
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-18-231334.mp3</guid>
-      <itunes:duration>7:02</itunes:duration>
-      <itunes:summary>Kevin Weil leaves OpenAI, Claude Design + Opus 4.7 launch, Levie on headless software, ServiceNow CEO on the SaaSpocalypse</itunes:summary>
     </item>
     
   </channel>

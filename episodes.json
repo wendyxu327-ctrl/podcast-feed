@@ -1,5 +1,14 @@
 [
   {
+    "title": "EP01\uff5c\u4f60\u7684\u4e0b\u4e00\u4efd\u5fc5\u987b\u6709\uff0c\u662f\u7f51\u7edc\u5b89\u5168",
+    "description": "\u4e3a\u4ec0\u4e48AI\u65f6\u4ee3\u7684\u7f51\u7edc\u5b89\u5168\u6b63\u5728\u53d8\u6210\u5fc5\u987b\u5c42\u3002\u4eceReplit\u521b\u59cb\u4eba\u5230ServiceNow CEO\u7684\u53cc\u91cd\u5224\u65ad\u8bf4\u8d77\u3002\u672f\u8bed\u5c0f\u767d\u7248\u3002",
+    "pub_date": "Sun, 26 Apr 2026 23:48:51 GMT",
+    "filename": "EP01_\u4f60\u7684\u4e0b\u4e00\u4efd\u5fc5\u987b\u6709_\u662f\u7f51\u7edc\u5b89\u5168.mp3",
+    "file_size": "8693595",
+    "duration": "9:03",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP01_\u4f60\u7684\u4e0b\u4e00\u4efd\u5fc5\u987b\u6709_\u662f\u7f51\u7edc\u5b89\u5168.mp3"
+  },
+  {
     "title": "AI Builders Digest - 2026-04-26",
     "description": "Today's AI builder highlights: ServiceNow CEO on AI vs workflow, Sam Altman on Codex speed, Levie on AI as career leverage, Masad's era timeline, and more.",
     "pub_date": "Sun, 26 Apr 2026 10:20:23 GMT",
@@ -259,14 +268,5 @@
     "file_size": "11422032",
     "duration": "11:53",
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-223937.mp3"
-  },
-  {
-    "title": "AI Builders Digest - 2026-04-18",
-    "description": "Kevin Weil leaves OpenAI, Claude Design + Opus 4.7 launch, Levie on headless software, ServiceNow CEO on the SaaSpocalypse",
-    "pub_date": "Sun, 19 Apr 2026 02:13:45 GMT",
-    "filename": "2026-04-18-231334.mp3",
-    "file_size": "6766385",
-    "duration": "7:02",
-    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-18-231334.mp3"
   }
 ]
