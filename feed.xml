@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>EP02｜32亿、25亿、77亿——AI让网安并购变疯了</title>
+      <description>Wiz 320亿、CyberArk 250亿、Lakera 3亿——18个月最重要的AI安全收购故事，以色列8200部队的人才秘密。</description>
+      <pubDate>Sun, 26 Apr 2026 23:49:31 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP02_AI让网安并购变疯了.mp3"
+                 length="7929147"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP02_AI让网安并购变疯了.mp3</guid>
+      <itunes:duration>8:15</itunes:duration>
+      <itunes:summary>Wiz 320亿、CyberArk 250亿、Lakera 3亿——18个月最重要的AI安全收购故事，以色列8200部队的人才秘密。</itunes:summary>
+    </item>
+    
+    <item>
       <title>EP01｜你的下一份必须有，是网络安全</title>
       <description>为什么AI时代的网络安全正在变成必须层。从Replit创始人到ServiceNow CEO的双重判断说起。术语小白版。</description>
       <pubDate>Sun, 26 Apr 2026 23:48:51 GMT</pubDate>
@@ -372,18 +384,6 @@
       <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-232528.mp3</guid>
       <itunes:duration>13:59</itunes:duration>
       <itunes:summary>选型六维度+DeepSeek V3与R1差异+全家桶盘点+PM视角决策流,字节阿里高频题</itunes:summary>
-    </item>
-    
-    <item>
-      <title>【AI PM 017】幻觉的成因与处理</title>
-      <description>大模型为什么会一本正经胡说八道？从4条成因、3种类型、3个真实翻车案例，到 PM 必须掌握的反直觉处理原则。含字节抖音推荐系统的'幻觉推荐'处理方案。</description>
-      <pubDate>Wed, 22 Apr 2026 01:45:14 GMT</pubDate>
-      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-223937.mp3"
-                 length="11422032"
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-223937.mp3</guid>
-      <itunes:duration>11:53</itunes:duration>
-      <itunes:summary>大模型为什么会一本正经胡说八道？从4条成因、3种类型、3个真实翻车案例，到 PM 必须掌握的反直觉处理原则。含字节抖音推荐系统的'幻觉推荐'处理方案。</itunes:summary>
     </item>
     
   </channel>
