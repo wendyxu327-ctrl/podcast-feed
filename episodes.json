@@ -1,5 +1,14 @@
 [
   {
+    "title": "EP06\uff5c\u5982\u679c\u6211\u6709\u4e00\u7b14\u94b1\u2014\u2014\u6295\u8d44\u4eba\u4e0e\u521b\u4e1a\u8005\u7684\u5207\u5165\u6e05\u5355",
+    "description": "\u4e94\u4e2a\u673a\u4f1a\u3001\u4e09\u4e2a\u8bef\u533a\u3001\u4f30\u503c\u53c2\u8003\u3001\u521b\u59cb\u56e2\u961f\u753b\u50cf\u3002AI\u5b89\u5168\u516d\u96c6\u5230\u6b64\u7ed3\u675f\u7684\u884c\u52a8\u6e05\u5355\u3002",
+    "pub_date": "Sun, 26 Apr 2026 23:52:12 GMT",
+    "filename": "EP06_\u6295\u8d44\u4eba\u4e0e\u521b\u4e1a\u8005\u7684\u5207\u5165\u6e05\u5355.mp3",
+    "file_size": "7115799",
+    "duration": "7:24",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP06_\u6295\u8d44\u4eba\u4e0e\u521b\u4e1a\u8005\u7684\u5207\u5165\u6e05\u5355.mp3"
+  },
+  {
     "title": "EP05\uff5c\u5f71\u5b50AI\u4e0eDeepfake\uff1a\u4f60\u4f1a\u88ab\u9a97\u5230\u76842026",
     "description": "\u5458\u5de5\u5077\u5077\u7528ChatGPT\u3001\u9999\u6e2f2\u4ebf\u6e2f\u5e01AI\u8bc8\u9a97\u6848\u3001\u5bb6\u5ead\u8bed\u97f3\u5bc6\u7801\u2014\u2014AI\u65f6\u4ee3\u7684\u9632\u9a97\u6307\u5357\u3002",
     "pub_date": "Sun, 26 Apr 2026 23:51:33 GMT",
@@ -259,14 +268,5 @@
     "file_size": "7804177",
     "duration": "8:07",
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234110.mp3"
-  },
-  {
-    "title": "\u3010AI PM 024\u3011Agent\u57fa\u7840+Cursor/Trae\u5b9e\u73b0",
-    "description": "Agent=LLM+Tool+Loop+Memory+Planning,\u62c6\u89e3Cursor\u4e09\u5c42\u548c\u5b57\u8282Trae\u7684Builder Mode",
-    "pub_date": "Wed, 22 Apr 2026 02:38:19 GMT",
-    "filename": "2026-04-21-233815.mp3",
-    "file_size": "11203439",
-    "duration": "11:40",
-    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233815.mp3"
   }
 ]

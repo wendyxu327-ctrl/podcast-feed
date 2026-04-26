@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>EP06｜如果我有一笔钱——投资人与创业者的切入清单</title>
+      <description>五个机会、三个误区、估值参考、创始团队画像。AI安全六集到此结束的行动清单。</description>
+      <pubDate>Sun, 26 Apr 2026 23:52:12 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP06_投资人与创业者的切入清单.mp3"
+                 length="7115799"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP06_投资人与创业者的切入清单.mp3</guid>
+      <itunes:duration>7:24</itunes:duration>
+      <itunes:summary>五个机会、三个误区、估值参考、创始团队画像。AI安全六集到此结束的行动清单。</itunes:summary>
+    </item>
+    
+    <item>
       <title>EP05｜影子AI与Deepfake：你会被骗到的2026</title>
       <description>员工偷偷用ChatGPT、香港2亿港币AI诈骗案、家庭语音密码——AI时代的防骗指南。</description>
       <pubDate>Sun, 26 Apr 2026 23:51:33 GMT</pubDate>
@@ -372,18 +384,6 @@
       <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234110.mp3</guid>
       <itunes:duration>8:07</itunes:duration>
       <itunes:summary>MCP像USB-C,Skills像App插件,渐进式披露机制,做平台用MCP做垂类用Skills</itunes:summary>
-    </item>
-    
-    <item>
-      <title>【AI PM 024】Agent基础+Cursor/Trae实现</title>
-      <description>Agent=LLM+Tool+Loop+Memory+Planning,拆解Cursor三层和字节Trae的Builder Mode</description>
-      <pubDate>Wed, 22 Apr 2026 02:38:19 GMT</pubDate>
-      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233815.mp3"
-                 length="11203439"
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233815.mp3</guid>
-      <itunes:duration>11:40</itunes:duration>
-      <itunes:summary>Agent=LLM+Tool+Loop+Memory+Planning,拆解Cursor三层和字节Trae的Builder Mode</itunes:summary>
     </item>
     
   </channel>
