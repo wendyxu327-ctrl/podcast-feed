@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>EP04｜Agent才是主战场——MCP、NHI和非人身份</title>
+      <description>AI助手数量将是真人员工的50倍。非人身份治理是下一代Okta+CyberArk的赛道。MCP漏洞与Agent沙箱。</description>
+      <pubDate>Sun, 26 Apr 2026 23:50:54 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP04_Agent才是主战场.mp3"
+                 length="7211929"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP04_Agent才是主战场.mp3</guid>
+      <itunes:duration>7:30</itunes:duration>
+      <itunes:summary>AI助手数量将是真人员工的50倍。非人身份治理是下一代Okta+CyberArk的赛道。MCP漏洞与Agent沙箱。</itunes:summary>
+    </item>
+    
+    <item>
       <title>EP03｜中国队为什么没出现Lakera量级的明星</title>
       <description>国内AI安全的真实图景：政策刚需vs创业窗口，三个空白方向（AI红队、Deepfake反欺诈、Agent IAM）。</description>
       <pubDate>Sun, 26 Apr 2026 23:50:14 GMT</pubDate>
@@ -372,18 +384,6 @@
       <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233404.mp3</guid>
       <itunes:duration>12:59</itunes:duration>
       <itunes:summary>RAG召回率+微调数据标注+模型迭代验收,腾讯面试原题</itunes:summary>
-    </item>
-    
-    <item>
-      <title>【AI PM 019】微调与 LoRA 85%→95%</title>
-      <description>微调类型对比+LoRA原理+客服85%到95%六步流程,腾讯面试原题标准答案</description>
-      <pubDate>Wed, 22 Apr 2026 02:29:35 GMT</pubDate>
-      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-232930.mp3"
-                 length="10449441"
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-232930.mp3</guid>
-      <itunes:duration>10:53</itunes:duration>
-      <itunes:summary>微调类型对比+LoRA原理+客服85%到95%六步流程,腾讯面试原题标准答案</itunes:summary>
     </item>
     
   </channel>

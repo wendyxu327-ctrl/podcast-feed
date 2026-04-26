@@ -1,5 +1,14 @@
 [
   {
+    "title": "EP04\uff5cAgent\u624d\u662f\u4e3b\u6218\u573a\u2014\u2014MCP\u3001NHI\u548c\u975e\u4eba\u8eab\u4efd",
+    "description": "AI\u52a9\u624b\u6570\u91cf\u5c06\u662f\u771f\u4eba\u5458\u5de5\u768450\u500d\u3002\u975e\u4eba\u8eab\u4efd\u6cbb\u7406\u662f\u4e0b\u4e00\u4ee3Okta+CyberArk\u7684\u8d5b\u9053\u3002MCP\u6f0f\u6d1e\u4e0eAgent\u6c99\u7bb1\u3002",
+    "pub_date": "Sun, 26 Apr 2026 23:50:54 GMT",
+    "filename": "EP04_Agent\u624d\u662f\u4e3b\u6218\u573a.mp3",
+    "file_size": "7211929",
+    "duration": "7:30",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/EP04_Agent\u624d\u662f\u4e3b\u6218\u573a.mp3"
+  },
+  {
     "title": "EP03\uff5c\u4e2d\u56fd\u961f\u4e3a\u4ec0\u4e48\u6ca1\u51fa\u73b0Lakera\u91cf\u7ea7\u7684\u660e\u661f",
     "description": "\u56fd\u5185AI\u5b89\u5168\u7684\u771f\u5b9e\u56fe\u666f\uff1a\u653f\u7b56\u521a\u9700vs\u521b\u4e1a\u7a97\u53e3\uff0c\u4e09\u4e2a\u7a7a\u767d\u65b9\u5411\uff08AI\u7ea2\u961f\u3001Deepfake\u53cd\u6b3a\u8bc8\u3001Agent IAM\uff09\u3002",
     "pub_date": "Sun, 26 Apr 2026 23:50:14 GMT",
@@ -259,14 +268,5 @@
     "file_size": "12469438",
     "duration": "12:59",
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-233404.mp3"
-  },
-  {
-    "title": "\u3010AI PM 019\u3011\u5fae\u8c03\u4e0e LoRA 85%\u219295%",
-    "description": "\u5fae\u8c03\u7c7b\u578b\u5bf9\u6bd4+LoRA\u539f\u7406+\u5ba2\u670d85%\u523095%\u516d\u6b65\u6d41\u7a0b,\u817e\u8baf\u9762\u8bd5\u539f\u9898\u6807\u51c6\u7b54\u6848",
-    "pub_date": "Wed, 22 Apr 2026 02:29:35 GMT",
-    "filename": "2026-04-21-232930.mp3",
-    "file_size": "10449441",
-    "duration": "10:53",
-    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-232930.mp3"
   }
 ]
