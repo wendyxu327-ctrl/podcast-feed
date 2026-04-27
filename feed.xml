@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI Builders Digest - 2026-04-27</title>
+      <description>Today's AI builder highlights: Coding agents as superintelligence foundation, agent-native OS redesign (Sam Altman + Garry Tan), EBMs vs LLMs, investment signals on OmniPhysx and Macaron.</description>
+      <pubDate>Mon, 27 Apr 2026 10:21:46 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-27-072109.mp3"
+                 length="9530349"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-27-072109.mp3</guid>
+      <itunes:duration>9:55</itunes:duration>
+      <itunes:summary>Today's AI builder highlights: Coding agents as superintelligence foundation, agent-native OS redesign (Sam Altman + Garry Tan), EBMs vs LLMs, investment signals on OmniPhysx and Macaron.</itunes:summary>
+    </item>
+    
+    <item>
       <title>EP06｜如果我有一笔钱——投资人与创业者的切入清单</title>
       <description>五个机会、三个误区、估值参考、创始团队画像。AI安全六集到此结束的行动清单。</description>
       <pubDate>Sun, 26 Apr 2026 23:52:12 GMT</pubDate>
@@ -372,18 +384,6 @@
       <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234501.mp3</guid>
       <itunes:duration>11:12</itunes:duration>
       <itunes:summary>多模态三代演进+四条为什么是下一站,Sora/GPT-4o案例,字节天然多模态</itunes:summary>
-    </item>
-    
-    <item>
-      <title>【AI PM 025】MCP vs Skills 渐进式披露</title>
-      <description>MCP像USB-C,Skills像App插件,渐进式披露机制,做平台用MCP做垂类用Skills</description>
-      <pubDate>Wed, 22 Apr 2026 02:41:13 GMT</pubDate>
-      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234110.mp3"
-                 length="7804177"
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234110.mp3</guid>
-      <itunes:duration>8:07</itunes:duration>
-      <itunes:summary>MCP像USB-C,Skills像App插件,渐进式披露机制,做平台用MCP做垂类用Skills</itunes:summary>
     </item>
     
   </channel>
