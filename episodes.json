@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI Builders Digest - 2026-04-29",
+    "description": "\u4eca\u5929\u7845\u8c37\u96c6\u4f53\u5728\u91cd\u5199\u5e94\u7528\u8303\u5f0f\uff1aVercel \u7ed9 agent \u9020\u5de5\u5177\u3001Dan Shipper \u63d0 Codex-native app\u3001Anthropic \u63a5\u7ba1 8 \u6b3e\u521b\u610f\u8f6f\u4ef6\u3001YC W26 41.5% \u62bc\u6ce8 agent \u57fa\u7840\u8bbe\u65bd\u3002\u6295\u8d44\u89c6\u89d2\uff1aCursor \u662f Createany \u5929\u82b1\u677f\uff0cagent infra \u662f winner-takes-most \u4e2d\u95f4\u5c42\u3002",
+    "pub_date": "Wed, 29 Apr 2026 10:40:13 GMT",
+    "filename": "2026-04-29-073958.mp3",
+    "file_size": "10431051",
+    "duration": "10:51",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-29-073958.mp3"
+  },
+  {
     "title": "AI Builders Digest - 2026-04-28",
     "description": "ProFound CEO \u9884\u8a00\u4e09\u5e74\u5185\u6b7b\u4ea1\u4e92\u8054\u7f51\uff0cReplit \u63a8 8 \u5468\u7b2c\u4e00\u7f8e\u91d1\u52a0\u901f\u5668\uff0csolo founder Tibo \u6708\u5165 100 \u4e07\u7f8e\u91d1 5 \u6761\u94c1\u5f8b\uff0cZara Zhang \u629b\u51fa orchestrator agent \u67b6\u6784 thesis\uff0cOpenAI \u548c\u5fae\u8f6f\u5408\u4f5c\u6b63\u5f0f\u91cd\u6784\u3002\u6295\u8d44\u89c6\u89d2\uff1aAgent-Led Growth/GEO \u5f3a\u4fe1\u53f7\uff0cMacaron/Shuimu/Createany \u4e09\u4e2a\u6d77\u5916\u5148\u9a8c\u3002",
     "pub_date": "Tue, 28 Apr 2026 11:07:05 GMT",
@@ -259,14 +268,5 @@
     "file_size": "9436308",
     "duration": "9:49",
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235304.mp3"
-  },
-  {
-    "title": "\u3010AI PM 031\u3011\u591a\u6a21\u6001\u5927\u6a21\u578b\u4ee3\u8868\u4f5c\u76d8\u70b9",
-    "description": "\u6309\u80fd\u529b\u7c7b\u578b\u76d8\u70b9:Vision LLM+\u957f\u89c6\u9891+\u6587\u751f\u56fe/\u89c6\u9891/\u97f3\u4e50+\u5b9e\u65f6\u8bed\u97f3+\u6570\u5b57\u4eba,\u5b57\u8282\u8c46\u5305\u5373\u68a6\u77e9\u9635",
-    "pub_date": "Wed, 22 Apr 2026 02:49:34 GMT",
-    "filename": "2026-04-21-234929.mp3",
-    "file_size": "11962871",
-    "duration": "12:27",
-    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234929.mp3"
   }
 ]

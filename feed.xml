@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI Builders Digest - 2026-04-29</title>
+      <description>今天硅谷集体在重写应用范式：Vercel 给 agent 造工具、Dan Shipper 提 Codex-native app、Anthropic 接管 8 款创意软件、YC W26 41.5% 押注 agent 基础设施。投资视角：Cursor 是 Createany 天花板，agent infra 是 winner-takes-most 中间层。</description>
+      <pubDate>Wed, 29 Apr 2026 10:40:13 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-29-073958.mp3"
+                 length="10431051"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-29-073958.mp3</guid>
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:summary>今天硅谷集体在重写应用范式：Vercel 给 agent 造工具、Dan Shipper 提 Codex-native app、Anthropic 接管 8 款创意软件、YC W26 41.5% 押注 agent 基础设施。投资视角：Cursor 是 Createany 天花板，agent infra 是 winner-takes-most 中间层。</itunes:summary>
+    </item>
+    
+    <item>
       <title>AI Builders Digest - 2026-04-28</title>
       <description>ProFound CEO 预言三年内死亡互联网，Replit 推 8 周第一美金加速器，solo founder Tibo 月入 100 万美金 5 条铁律，Zara Zhang 抛出 orchestrator agent 架构 thesis，OpenAI 和微软合作正式重构。投资视角：Agent-Led Growth/GEO 强信号，Macaron/Shuimu/Createany 三个海外先验。</description>
       <pubDate>Tue, 28 Apr 2026 11:07:05 GMT</pubDate>
@@ -372,18 +384,6 @@
       <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235304.mp3</guid>
       <itunes:duration>9:49</itunes:duration>
       <itunes:summary>7大品类:数字人+视频生成+AI图像+图文理解+实时语音+AR眼镜+具身智能</itunes:summary>
-    </item>
-    
-    <item>
-      <title>【AI PM 031】多模态大模型代表作盘点</title>
-      <description>按能力类型盘点:Vision LLM+长视频+文生图/视频/音乐+实时语音+数字人,字节豆包即梦矩阵</description>
-      <pubDate>Wed, 22 Apr 2026 02:49:34 GMT</pubDate>
-      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234929.mp3"
-                 length="11962871"
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-234929.mp3</guid>
-      <itunes:duration>12:27</itunes:duration>
-      <itunes:summary>按能力类型盘点:Vision LLM+长视频+文生图/视频/音乐+实时语音+数字人,字节豆包即梦矩阵</itunes:summary>
     </item>
     
   </channel>
