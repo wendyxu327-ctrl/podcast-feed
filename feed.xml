@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI Builders Digest - 2026-05-06</title>
+      <description>今日重点：OpenAI/Anthropic 估值双双逼近一万亿、企业 Agent 适配层成新赛道、Personal Agent 三信号同向、Agent-Native 安全（Vercel deepsec + Anthropic auto mode）、Voice AI 融资 2026 同比 +68%。投资视角覆盖 Dubbing AI、Createany、Lucius、码上飞 4 个海外先验匹配 + 3 个新兴方向。</description>
+      <pubDate>Wed, 06 May 2026 10:49:51 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-05-06-074939.mp3"
+                 length="10400540"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-05-06-074939.mp3</guid>
+      <itunes:duration>10:49</itunes:duration>
+      <itunes:summary>今日重点：OpenAI/Anthropic 估值双双逼近一万亿、企业 Agent 适配层成新赛道、Personal Agent 三信号同向、Agent-Native 安全（Vercel deepsec + Anthropic auto mode）、Voice AI 融资 2026 同比 +68%。投资视角覆盖 Dubbing AI、Createany、Lucius、码上飞 4 个海外先验匹配 + 3 个新兴方向。</itunes:summary>
+    </item>
+    
+    <item>
       <title>AI Builders Digest - 2026-04-29</title>
       <description>今天硅谷集体在重写应用范式：Vercel 给 agent 造工具、Dan Shipper 提 Codex-native app、Anthropic 接管 8 款创意软件、YC W26 41.5% 押注 agent 基础设施。投资视角：Cursor 是 Createany 天花板，agent infra 是 winner-takes-most 中间层。</description>
       <pubDate>Wed, 29 Apr 2026 10:40:13 GMT</pubDate>
@@ -372,18 +384,6 @@
       <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235639.mp3</guid>
       <itunes:duration>10:36</itunes:duration>
       <itunes:summary>AI PM五方翻译官,黑话速查+三大典型冲突+三招协作法,字节JD明确要求</itunes:summary>
-    </item>
-    
-    <item>
-      <title>【AI PM 032】多模态产品形态全景</title>
-      <description>7大品类:数字人+视频生成+AI图像+图文理解+实时语音+AR眼镜+具身智能</description>
-      <pubDate>Wed, 22 Apr 2026 02:53:07 GMT</pubDate>
-      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235304.mp3"
-                 length="9436308"
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235304.mp3</guid>
-      <itunes:duration>9:49</itunes:duration>
-      <itunes:summary>7大品类:数字人+视频生成+AI图像+图文理解+实时语音+AR眼镜+具身智能</itunes:summary>
     </item>
     
   </channel>
