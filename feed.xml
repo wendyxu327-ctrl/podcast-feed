@@ -27,6 +27,18 @@
 
     
     <item>
+      <title>AI Builders Digest - 2026-05-07</title>
+      <description>今日核心：Anthropic Code with Claude 大会一口气发了三个炸弹——Outcomes（rubric 驱动的 agent 执行）、Dreaming（agent 跨会话记忆萃取）、Multi-Agent Orchestration（20 个并行专家）。叠加 Boris Cherny 50 分钟深度访谈：100% 模型写代码、晚上数千 agent、SaaSpocalypse 框架、software 印刷术时刻。Dario 公开承认 Anthropic 80x 增长、算力是物理瓶颈。投资视角覆盖 Macaron / Createany / 码上飞 / Lucius 4 个海外先验匹配 + 3 个新兴方向。</description>
+      <pubDate>Thu, 07 May 2026 11:48:15 GMT</pubDate>
+      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-05-07-084803.mp3"
+                 length="9242375"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-05-07-084803.mp3</guid>
+      <itunes:duration>9:37</itunes:duration>
+      <itunes:summary>今日核心：Anthropic Code with Claude 大会一口气发了三个炸弹——Outcomes（rubric 驱动的 agent 执行）、Dreaming（agent 跨会话记忆萃取）、Multi-Agent Orchestration（20 个并行专家）。叠加 Boris Cherny 50 分钟深度访谈：100% 模型写代码、晚上数千 agent、SaaSpocalypse 框架、software 印刷术时刻。Dario 公开承认 Anthropic 80x 增长、算力是物理瓶颈。投资视角覆盖 Macaron / Createany / 码上飞 / Lucius 4 个海外先验匹配 + 3 个新兴方向。</itunes:summary>
+    </item>
+    
+    <item>
       <title>AI Builders Digest - 2026-05-06</title>
       <description>今日重点：OpenAI/Anthropic 估值双双逼近一万亿、企业 Agent 适配层成新赛道、Personal Agent 三信号同向、Agent-Native 安全（Vercel deepsec + Anthropic auto mode）、Voice AI 融资 2026 同比 +68%。投资视角覆盖 Dubbing AI、Createany、Lucius、码上飞 4 个海外先验匹配 + 3 个新兴方向。</description>
       <pubDate>Wed, 06 May 2026 10:49:51 GMT</pubDate>
@@ -372,18 +384,6 @@
       <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-22-000131.mp3</guid>
       <itunes:duration>13:40</itunes:duration>
       <itunes:summary>AI-Native四环节重构:内容理解→兴趣识别→创作辅助→社交连接,字节JD原题答题框架</itunes:summary>
-    </item>
-    
-    <item>
-      <title>【AI PM 043】跨团队协作·和算法/工程/运营打交道</title>
-      <description>AI PM五方翻译官,黑话速查+三大典型冲突+三招协作法,字节JD明确要求</description>
-      <pubDate>Wed, 22 Apr 2026 02:56:43 GMT</pubDate>
-      <enclosure url="https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235639.mp3"
-                 length="10189053"
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235639.mp3</guid>
-      <itunes:duration>10:36</itunes:duration>
-      <itunes:summary>AI PM五方翻译官,黑话速查+三大典型冲突+三招协作法,字节JD明确要求</itunes:summary>
     </item>
     
   </channel>

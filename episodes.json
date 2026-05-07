@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI Builders Digest - 2026-05-07",
+    "description": "\u4eca\u65e5\u6838\u5fc3\uff1aAnthropic Code with Claude \u5927\u4f1a\u4e00\u53e3\u6c14\u53d1\u4e86\u4e09\u4e2a\u70b8\u5f39\u2014\u2014Outcomes\uff08rubric \u9a71\u52a8\u7684 agent \u6267\u884c\uff09\u3001Dreaming\uff08agent \u8de8\u4f1a\u8bdd\u8bb0\u5fc6\u8403\u53d6\uff09\u3001Multi-Agent Orchestration\uff0820 \u4e2a\u5e76\u884c\u4e13\u5bb6\uff09\u3002\u53e0\u52a0 Boris Cherny 50 \u5206\u949f\u6df1\u5ea6\u8bbf\u8c08\uff1a100% \u6a21\u578b\u5199\u4ee3\u7801\u3001\u665a\u4e0a\u6570\u5343 agent\u3001SaaSpocalypse \u6846\u67b6\u3001software \u5370\u5237\u672f\u65f6\u523b\u3002Dario \u516c\u5f00\u627f\u8ba4 Anthropic 80x \u589e\u957f\u3001\u7b97\u529b\u662f\u7269\u7406\u74f6\u9888\u3002\u6295\u8d44\u89c6\u89d2\u8986\u76d6 Macaron / Createany / \u7801\u4e0a\u98de / Lucius 4 \u4e2a\u6d77\u5916\u5148\u9a8c\u5339\u914d + 3 \u4e2a\u65b0\u5174\u65b9\u5411\u3002",
+    "pub_date": "Thu, 07 May 2026 11:48:15 GMT",
+    "filename": "2026-05-07-084803.mp3",
+    "file_size": "9242375",
+    "duration": "9:37",
+    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-05-07-084803.mp3"
+  },
+  {
     "title": "AI Builders Digest - 2026-05-06",
     "description": "\u4eca\u65e5\u91cd\u70b9\uff1aOpenAI/Anthropic \u4f30\u503c\u53cc\u53cc\u903c\u8fd1\u4e00\u4e07\u4ebf\u3001\u4f01\u4e1a Agent \u9002\u914d\u5c42\u6210\u65b0\u8d5b\u9053\u3001Personal Agent \u4e09\u4fe1\u53f7\u540c\u5411\u3001Agent-Native \u5b89\u5168\uff08Vercel deepsec + Anthropic auto mode\uff09\u3001Voice AI \u878d\u8d44 2026 \u540c\u6bd4 +68%\u3002\u6295\u8d44\u89c6\u89d2\u8986\u76d6 Dubbing AI\u3001Createany\u3001Lucius\u3001\u7801\u4e0a\u98de 4 \u4e2a\u6d77\u5916\u5148\u9a8c\u5339\u914d + 3 \u4e2a\u65b0\u5174\u65b9\u5411\u3002",
     "pub_date": "Wed, 06 May 2026 10:49:51 GMT",
@@ -259,14 +268,5 @@
     "file_size": "13135665",
     "duration": "13:40",
     "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-22-000131.mp3"
-  },
-  {
-    "title": "\u3010AI PM 043\u3011\u8de8\u56e2\u961f\u534f\u4f5c\u00b7\u548c\u7b97\u6cd5/\u5de5\u7a0b/\u8fd0\u8425\u6253\u4ea4\u9053",
-    "description": "AI PM\u4e94\u65b9\u7ffb\u8bd1\u5b98,\u9ed1\u8bdd\u901f\u67e5+\u4e09\u5927\u5178\u578b\u51b2\u7a81+\u4e09\u62db\u534f\u4f5c\u6cd5,\u5b57\u8282JD\u660e\u786e\u8981\u6c42",
-    "pub_date": "Wed, 22 Apr 2026 02:56:43 GMT",
-    "filename": "2026-04-21-235639.mp3",
-    "file_size": "10189053",
-    "duration": "10:36",
-    "guid": "https://wendyxu327-ctrl.github.io/podcast-feed/episodes/2026-04-21-235639.mp3"
   }
 ]
